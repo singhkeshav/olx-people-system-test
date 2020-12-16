@@ -1,5 +1,5 @@
 
-import React from 'react';
+
 
 const CountriesComp = ({ name, code }) => (
     <div className="col-md">

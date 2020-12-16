@@ -6,7 +6,6 @@ var CACHE_NAME = 'olx-group-system-test-cache-v1';
 
 // Static URLs
 const STATIC_URLS = [
-  "/",
   "/manifest.json",
   "/js/bundle.js"
 ];
