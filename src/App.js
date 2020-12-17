@@ -1,5 +1,5 @@
 
-import './App.css';
+
 import { Switch, Route, BrowserRouter as Router } from 'react-router-dom';
 import ContinentsComp from './pages/continents/continents.component';
 import ContinentDetails from './pages/continent-details/continent-details.component';
